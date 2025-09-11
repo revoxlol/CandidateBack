@@ -9,7 +9,7 @@
 ### Candidates (All protected)
 - `GET /api/candidates` - Get all candidates with filtering/pagination
 - `POST /api/candidates` - Create new candidate
-- `GET /api/candidates/stats` - Get dashboard statistics  
+- `GET /api/candidates/stats` - Get dashboard statistics
 - `GET /api/candidates/:id` - Get single candidate
 - `PATCH /api/candidates/:id` - Update candidate
 - `DELETE /api/candidates/:id` - Delete candidate
